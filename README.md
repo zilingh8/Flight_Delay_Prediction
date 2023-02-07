@@ -4,5 +4,12 @@ In this group school project, we use five years of flight data (31mil flight rec
 
 The datasets were cleaned, analyzed, joined and new features were engineered based on our literature review and insights from our analysis. We also made use of graph algorithms and graph analytics in our study. Finally, we created an ML pipeline of various algorithms to select the best algorithm for our flight delay prediction task.
 
-I have included a snippet of part of the project code for feature engineering and joins in this repo. The slide deck was also added.
-For more discussion on code details, please send a direct message to me on linkedin.
+The slide deck and W261_SP22_FINAL_PROJECT_TEAM14.ipynb report summarizes our findings.
+
+The working ipynb files are as per below:
+1. Exploratory Data Analysis : Final_EDA_Team_14.ipynb
+2. Feature Engineering Joins
+3. Exploration and Graphs with pyspark
+4. Weighted Page Rank from Scratch (for feature engineering)
+5.  Linear, Logistic, and Multi-task algorithms from scratch using Resilient Distributed Datasets(RDDs) in PySpark
+6. ML Pipeline Implementation 
